@@ -1,6 +1,3 @@
-
-
-
 data_mahasiswa = []
 
 while True:

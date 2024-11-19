@@ -149,3 +149,4 @@ Menghitung grade: Anda bisa menambahkan kode untuk menghitung grade (A, B, C, D,
 Mengurutkan data: Program bisa diperbaiki untuk menampilkan data yang terurut berdasarkan nilai akhir atau nama mahasiswa.
 
 # FLOWCHART 
+![Foto](https://github.com/nanafnan09/labpy4/blob/e434697ca70f8cdc1604f3dc5e3380c9f063a062/FLOWCHART%20PRATIKUM4.png)
